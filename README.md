@@ -70,8 +70,8 @@ This project uses the following dependencies:
 
 ## Screenshots
 
-![App Screenshot](screenshots/screenshot1.png)
-![App Screenshot](screenshots/screenshot2.png)
+[![App Screenshot](screenshots/screenshot1.png)](https://github.com/Razmik2001/Notes/blob/master/Screenshot%20from%202025-04-04%2021-46-28.png)
+[![App Screenshot](screenshots/screenshot2.png)](https://github.com/Razmik2001/Notes/blob/master/Screenshot%20from%202025-04-04%2021-46-38.png)
 
 ## License
 
