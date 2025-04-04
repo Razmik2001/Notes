@@ -72,8 +72,8 @@ This project uses the following dependencies:
 
 <table>
   <tr>
-    <td><img src="https://github.com/Razmik2001/Notes/raw/master/screen1.png" alt="Image 1" width="450"/></td>
-    <td><img src="https://github.com/Razmik2001/Notes/raw/master/screen2.png" alt="Image 2" width="450"/></td>
+    <td><img src="https://github.com/Razmik2001/Notes/blob/master/img/sc1.png" alt="Image 1" width="450"/></td>
+    <td><img src="https://github.com/Razmik2001/Notes/blob/master/img/sc2.png" alt="Image 2" width="450"/></td>
   </tr>
 </table>
 
