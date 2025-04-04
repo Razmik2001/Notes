@@ -70,8 +70,13 @@ This project uses the following dependencies:
 
 ## Screenshots
 
-[Screen 1](https://github.com/Razmik2001/Notes/blob/master/screen1?raw=true)
-[Screen 2](https://github.com/Razmik2001/Notes/blob/master/screen2?raw=true)
+<table>
+  <tr>
+    <td><img src="https://github.com/Razmik2001/Notes/raw/master/screen1.png" alt="Image 1" width="450"/></td>
+    <td><img src="https://github.com/Razmik2001/Notes/raw/master/screen2.png" alt="Image 2" width="450"/></td>
+  </tr>
+</table>
+
 
 
 ## License
