@@ -70,8 +70,9 @@ This project uses the following dependencies:
 
 ## Screenshots
 
-[Screen 1](https://github.com/Razmik2001/Notes/blob/master/Screenshot%20from%202025-04-04%2021-46-28.png?raw=true)
-[Screen 2](https://github.com/Razmik2001/Notes/blob/master/Screenshot%20from%202025-04-04%2021-46-38.png?raw=true)
+[Screen 1](https://github.com/Razmik2001/Notes/blob/master/screen1?raw=true)
+[Screen 2](https://github.com/Razmik2001/Notes/blob/master/screen2?raw=true)
+
 
 ## License
 
